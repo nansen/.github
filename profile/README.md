@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://cdn.prod.website-files.com/6375e36a2e6aae5fe7cef4a2/637a7d232913f9516b465b2b_logo_boxed_horizontal.svg" alt="Nansen" height="52" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nansen/.github/main/profile/nansen-logo-light.svg">
+    <img src="https://raw.githubusercontent.com/nansen/.github/main/profile/nansen-logo-dark.svg" alt="Nansen" height="52" />
+  </picture>
 
-  <br /><br />
+  <br />
 
   <strong>Charting the Possible</strong>
 
   <br />
 
-  We build digital experiences that grow businesses — e-commerce, content platforms, and everything in between.<br />
-  Chicago · London · <a href="https://www.nansen.com">nansen.com</a>
+  We build digital experiences that grow businesses; e-commerce, content platforms, and everything in between.<br />
+  <a href="https://www.nansen.com">nansen.com</a>
 
 </div>
 
@@ -22,6 +25,8 @@ We care about doing it right: clean architecture, maintainable code, and outcome
 
 ## Our stack
 
+Our stack includes, but are not limited to:
+
 **CMS & Commerce**
 
 ![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=flat-square&logo=optimizely&logoColor=white)
@@ -32,9 +37,10 @@ We care about doing it right: clean architecture, maintainable code, and outcome
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=white)
 
 **Backend**
 
@@ -49,7 +55,7 @@ We care about doing it right: clean architecture, maintainable code, and outcome
 
 ## Work with us
 
-While we're not always actively recruiting, but we're always interested in hearing from exceptional people - especially those who combine technical depth with a commercial mind. If that sounds like you, we'd love to talk.
+While we're not always actively recruiting, we're always interested in hearing from exceptional people - especially those who combine technical depth with a commercial mind. If that sounds like you, we'd love to talk.
 
 → [nansen.com/careers](https://www.nansen.com/careers)
 
