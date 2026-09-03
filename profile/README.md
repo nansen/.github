@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nansen/.github/main/profile/nansen-logo-light.svg">
-    <img src="https://raw.githubusercontent.com/nansen/.github/main/profile/nansen-logo-dark.svg" alt="Nansen" height="52" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nansen/.github/main/profile/nansen_logo_light.svg">
+    <img src="https://raw.githubusercontent.com/nansen/.github/main/profile/nansen_logo_dark.svg" alt="Nansen" height="52" />
   </picture>
 
   <br />
